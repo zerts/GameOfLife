@@ -1,0 +1,13 @@
+smart method
+time with 1threads = 15.204
+time with 2threads = 8.939
+time with 3threads = 6.99291
+time with 4threads = 7.63894
+time with 6threads = 7.8196
+
+simple method
+time with 1threads = 15.8981
+time with 2threads = 9.38353
+time with 3threads = 7.28865
+time with 4threads = 7.52018
+time with 6threads = 7.31763
